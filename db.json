@@ -1,0 +1,28 @@
+{
+    "producto":[
+        {
+        "Id": 1,
+        "Descripcion": "Mouse",
+        "Precio": "30.00",
+        "imagen": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/accessories/wireless-mouse-gt/specs-img.jpg"
+        },
+        {
+        "Id": 2,
+        "Descripcion": "silla",
+        "Precio": "30.00",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_919948-MLU70810113697_082023-O.webp"
+        },
+        {
+        "Id": 3,
+        "Descripcion": "Pantalla",
+        "Precio": "30.00",
+        "imagen":"https://elcomercio.pe/resizer/PlW4a8Euex0rHrFZ-7rszqVgiC0=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/RP4DJMR3FJA5FAAUYS3XXEUGJA.jpg"
+        },
+        {
+        "Id": 4,
+        "Descripcion": "Memoria RAM",
+        "Precio": "30.00",
+        "imagen":"https://image.coolblue.nl/624x351/content/1d64fec155110df8b848337dea37fbae"
+        }
+    ]
+}
